@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(#ff68e6bd, #0796e9);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    color: #0ea4ef;
+    font-family: Arial, sans-serif;
+    margin: 100px;
+}
+
+input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #3e8e41;
+}
+
+#mensaje {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+}
